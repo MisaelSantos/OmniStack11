@@ -7,7 +7,7 @@
 </p>
 
 
-# :rocket: Technologies
+<h2> :rocket: Technologies </h2>
 
 This project was developed with the following technologies:
 
@@ -20,7 +20,7 @@ This project was developed with the following technologies:
 * SQLite3
 
  
-# :heavy_exclamation_mark: Install
+<h2> :heavy_exclamation_mark: Install </h2>
  
  <br>
  
@@ -57,9 +57,9 @@ To clone and run this application, you'll need [Node.js](https://nodejs.org/en/)
 `npm start`
 
 
-# :memo: Licence
+<h2> :memo: Licence </h2>
   
-MIT Licence. See [LICENSE](https://github.com/MisaelSantos/OmniStack11/blob/master/LICENSE) more details.
+MIT Licence. See [LICENSE](https://github.com/MisaelSantos/OmniStack11/blob/master/LICENSE) for more details.
 
 <p align = "center">
   :sunglasses:<i>Make with ♥ by Misael Santos</i> <strong>2020</strong> :sunglasses: 
